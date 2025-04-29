@@ -8,8 +8,8 @@
 
 | Nome completo | RA |
 |:--------------|:---|
-|                |     |
-|                |     |
+|Ricaro Bertolessi Souto Galdino                |2041382411031     |
+|Eduardo Jeremias Cardoso                       |2041382411017     |
 |                |     |
 |                |     |
 |                |     |

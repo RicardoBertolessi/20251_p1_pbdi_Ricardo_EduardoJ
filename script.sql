@@ -1,8 +1,7 @@
 -- ----------------------------------------------------------------
 -- 1 Base de dados e criação de tabela
 --escreva a sua solução aqui
-
-
+dddd
 -- ----------------------------------------------------------------
 -- 2 Resultado em função da formação dos pais
 --escreva a sua solução aqui
